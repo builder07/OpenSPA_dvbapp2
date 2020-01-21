@@ -873,6 +873,7 @@ Makefile
 data/Makefile
 data/fonts/Makefile
 data/keymaps/Makefile
+data/rc_models/Makefile
 data/spinner/Makefile
 data/7segment/Makefile
 data/7segment/ChannelNumber/Makefile
